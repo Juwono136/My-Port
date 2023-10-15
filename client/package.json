@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "proxy": "http://localhost:5000",
+  "proxy": "https://my-port-api.vercel.app",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
